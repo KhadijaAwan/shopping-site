@@ -31,7 +31,6 @@ const CartProductData: React.FC<CartItem> = ({ data }) => {
         borderRadius="lg"
         bg="gray.800"
         mb="20px"
-        pl={10}
         display={{ base: "block", md: "none" }}
       >
         <Box mx="auto" width="280px" py={6}>
