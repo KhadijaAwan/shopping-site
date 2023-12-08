@@ -26,7 +26,7 @@ const CartProductData: React.FC<CartItem> = ({ data }) => {
   return (
     <>
       <Stack
-        width="320px"
+        width="300px"
         mx="auto"
         borderRadius="lg"
         bg="gray.800"
